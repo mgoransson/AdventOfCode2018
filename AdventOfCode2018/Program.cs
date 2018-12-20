@@ -41,6 +41,9 @@ namespace AdventOfCode2018
 
             Console.WriteLine("\nDAY 12");
             Day12.Run();
+
+            Console.WriteLine("\nDAY 13");
+            Day13.Run();
         }
     }
 }
